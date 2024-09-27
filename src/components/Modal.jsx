@@ -2,6 +2,7 @@ import { useEffect, useRef } from "react";
 import { ModalContext } from "../contexts/ModalContext";
 import { useContext } from "react";
 import data from "../data";
+import githubImage from "../assets/github.png";
 
 function Modal() {
   const { showModal, setShowModal, currentItemId } = useContext(ModalContext);
@@ -32,7 +33,7 @@ function Modal() {
 
       <div>
         <a className="modal-icon" href={item.git} target="_blank">
-          <img className="modal-icon" src="src/assets/github.png" />
+          <img className="modal-icon" src={githubImage} />
         </a>
         <p>{item.description}</p>
         <a

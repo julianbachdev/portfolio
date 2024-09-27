@@ -15,7 +15,7 @@ function SocialLinks() {
         <img className="icon" src={linkedInImage} />
       </a>
       <a href="mailto:julianrbach@gmail.com" target="_blank">
-        <img className="icon" src={emailImage} />
+        <omg className="icon" src={emailImage} />
       </a>
     </div>
   );
