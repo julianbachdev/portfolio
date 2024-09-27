@@ -1,4 +1,5 @@
 import SocialLinks from "./SocialLinks";
+import profileImage from "../assets/profile.png";
 
 function Header() {
   return (
@@ -11,7 +12,7 @@ function Header() {
         and accessible digital experiences.
       </p>
       <SocialLinks />
-      <img className="profile" src="src/assets/profile.png" alt="Julian Bach" />
+      <img className="profile" src={profileImage} alt="Julian Bach" />
     </header>
   );
 }
