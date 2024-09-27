@@ -1,0 +1,116 @@
+const data = [
+  {
+    name: "The Wild Oasis Guest",
+    description:
+      "Guest hotel booking site built with Next JS, React JS, Tailwind and the Supabase database.",
+    alt: "Cabin in woods",
+    tech: ["Next JS", "React", "Tailwind CSS", "JavaScript", "HTML"],
+    image: "src/assets/image31.png",
+    link: "https://julian-bach-the-wild-oasis-guest.netlify.app",
+    git: "https://github.com/julianbachdev/the-wild-oasis-guest",
+  },
+  {
+    name: "Order Pizza",
+    description:
+      "Pizza ordering site built with React JS, React Router, Redux and Tailwind",
+    alt: "Pizza menu",
+    tech: ["React", "Tailwind CSS", "JavaScript", "HTML"],
+    image: "src/assets/image27.png",
+    link: "https://julian-bach-order-pizza.netlify.app",
+    git: "https://github.com/julianbachdev/pizza-order",
+  },
+  {
+    name: "Travel Mapper",
+    description:
+      "Travel destination site built with React JS, React Router and the Leaflet API",
+    alt: "Map of travel destinations",
+    tech: ["React", "JavaScript", "HTML", "CSS"],
+    image: "src/assets/image22.png",
+    link: "https://julian-bach-travel-mapper.netlify.app",
+    git: "https://github.com/julianbachdev/travel-mapper",
+  },
+  {
+    name: "The Wild Oasis Employee",
+    description:
+      "Guest hotel booking site built with React JS, React Router, Tailwind and the Supabase database.",
+    alt: ["React", "Styled Components", "JavaScript", "HTML"],
+    image: "src/assets/image38.png",
+    link: "https://julian-bach-the-wild-oasis-employee.netlify.app",
+    git: "https://github.com/julianbachdev/the-wild-oasis-employee",
+  },
+  {
+    name: "Omnifood",
+    description: "Healthy food site built with HTML and CSS",
+    alt: "Artsy food imagery",
+    tech: ["HTML", "CSS"],
+    image: "src/assets/image50.png",
+    link: "https://julian-bach-omnifood.netlify.app",
+    git: "https://github.com/julianbachdev/omnifood",
+  },
+  {
+    name: "Banker App",
+    description: "Demo banking app built with HTML, CSS and JavaScript",
+    alt: "Banking app logo",
+    tech: ["Javascript", "HTML", "CSS"],
+    image: "src/assets/image13.png",
+    link: "https://julian-bach-banker-app.netlify.app",
+    git: "https://github.com/julianbachdev/banker-app",
+  },
+  {
+    name: "React Quiz App",
+    description: "Online React quiz app built with React JS, HTML and CSS",
+    alt: "List of questions in a quiz",
+    tech: ["React", "JavaScript", "HTML", "CSS"],
+    image: "src/assets/image11.png",
+    link: "https://julian-bach-react-quiz.netlify.app",
+    git: "https://github.com/julianbachdev/react-quiz",
+  },
+  {
+    name: "Travel List",
+    description: "Fun travel packing list built with React JS, HTML and CSS",
+    alt: "List of items to pack for travel",
+    tech: ["React", "JavaScript", "HTML", "CSS"],
+    image: "src/assets/image6.png",
+    link: "https://julian-bach-packing-list.netlify.app",
+    git: "https://github.com/julianbachdev/packing-list",
+  },
+  {
+    name: "Classy Weather",
+    description: "Weather app built with React JS, HTML and CSS",
+    alt: "Weather information with blue sky background",
+    tech: ["React", "JavaScript", "HTML", "CSS"],
+    image: "src/assets/image4.png",
+    link: "https://julian-bach-classy-weather.netlify.app",
+    git: "https://github.com/julianbachdev/classy-weather",
+  },
+  {
+    name: "Rainbow Snake Game",
+    description:
+      "My first game built with JavaScript, HTML and CSS. Animation done with setTimeout",
+    alt: "Two rainbow snakes with a game console in the middle",
+    tech: ["JavaScript", "HTML", "CSS"],
+    image: "src/assets/image2.png",
+    link: "https://julian-bach-rainbow-snake.netlify.app",
+    git: "https://github.com/julianbachdev/rainbow-snake",
+  },
+  {
+    name: "Split Your Bill",
+    description: "Bill splitting app built with React JS, HTML and CSS",
+    alt: "Poepl around a table with drinks and dinner",
+    tech: ["React", "JavaScript", "HTML", "CSS"],
+    image: "src/assets/image3.png",
+    link: "https://julian-bach-split-your-bill.netlify.app",
+    git: "https://github.com/julianbachdev/split-bill",
+  },
+  {
+    name: "MQL4 Trading Tools",
+    description:
+      "Indicators and algorithmic trading tools built with MQL4 for Metatrader 4",
+    alt: "Stock chart candlesticks",
+    tech: ["MQ4", "MetaTrader 4"],
+    image: "src/assets/image51.png",
+    link: "https://www.mql4.com",
+  },
+];
+
+export default data;
