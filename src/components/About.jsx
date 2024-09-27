@@ -54,7 +54,7 @@ function About() {
           <li>
             <a
               target="_blank"
-              href="https://drive.google.com/file/d/1DDlHOZDYkvOclI1nmg88QSpVegw7PduB/view?usp=share_link"
+              href="https://drive.google.com/file/d/19K9CbM3N4WeTCjVJFkqFAsA0nbWe3YgZ/view?usp=share_link"
             >
               Resume
             </a>
