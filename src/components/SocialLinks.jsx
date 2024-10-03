@@ -1,6 +1,6 @@
-import linkedInImage from "../assets/linkedin.png";
-import emailImage from "../assets/email.png";
-import githubImage from "../assets/github.png";
+import linkedInImage from "../assets/linkedin.webp";
+import emailImage from "../assets/email.webp";
+import githubImage from "../assets/github.webp";
 
 function SocialLinks() {
   return (

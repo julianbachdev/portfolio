@@ -1,5 +1,5 @@
 import SocialLinks from "./SocialLinks";
-import profileImage from "../assets/profile.png";
+import profileImage from "../assets/profile.webp";
 
 function Header() {
   return (

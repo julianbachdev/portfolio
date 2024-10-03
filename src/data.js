@@ -1,15 +1,15 @@
-import image31 from "./assets/image31.png";
-import image27 from "./assets/image27.png";
-import image22 from "./assets/image22.png";
-import image38 from "./assets/image38.png";
-import image50 from "./assets/image50.png";
-import image13 from "./assets/image13.png";
-import image11 from "./assets/image11.png";
-import image6 from "./assets/image6.png";
-import image4 from "./assets/image4.png";
-import image2 from "./assets/image2.png";
-import image3 from "./assets/image3.png";
-import image51 from "./assets/image51.png";
+import image2 from "./assets/image2.webp";
+import image3 from "./assets/image3.webp";
+import image4 from "./assets/image4.webp";
+import image6 from "./assets/image6.webp";
+import image11 from "./assets/image11.webp";
+import image13 from "./assets/image13.webp";
+import image22 from "./assets/image22.webp";
+import image27 from "./assets/image27.webp";
+import image31 from "./assets/image31.webp";
+import image38 from "./assets/image38.webp";
+import image50 from "./assets/image50.webp";
+import image51 from "./assets/image51.webp";
 
 const data = [
   {

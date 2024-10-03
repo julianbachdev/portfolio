@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import { ModalContext } from "../contexts/ModalContext";
 import { useContext } from "react";
 import data from "../data";
-import githubImage from "../assets/github.png";
+import githubImage from "../assets/github.webp";
 
 function Modal() {
   const { showModal, setShowModal, currentItemId } = useContext(ModalContext);
