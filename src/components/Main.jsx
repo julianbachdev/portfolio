@@ -7,6 +7,7 @@ function Main() {
       <About />
       <section className="portfolio">
         <h2>Portfolio</h2>
+        <p>Click to view full projects and github code:</p>
         <PortfolioList />
       </section>
     </main>
