@@ -21,10 +21,10 @@ function About() {
           full immersion in software engineering.
           <br />
           <br />
-          Since then, I have completed multiple courses focusing on front and
-          back-end web development and related technologies, including a in
-          depth course in React JS. With more than 20 projects under my belt,
-          including websites, apps, stock trading indicators and algorithms, I
+          Since then, I have completed multiple courses focusing on front- and
+          back-end web development and related technologies, including an
+          in-depth course in React JS. With more than 20 projects under my belt,
+          including websites, apps, stock trading indicators, and algorithms, I
           am eager to further establish myself in the tech industry.
           <br />
           <br />
