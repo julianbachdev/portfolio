@@ -21,22 +21,21 @@ function About() {
           full immersion in software engineering.
           <br />
           <br />
-          Since then, I have completed multiple courses in HTML & CSS,
-          JavaScript, and React and continue to diversify my knowledge and
-          experience as a professional software engineer. With more than 20
-          projects under my belt, including websites, apps, stock trading
-          indicators and algorithms, I am eager to further establish myself in
-          the tech industry.
+          Since then, I have completed multiple courses focusing on front and
+          back-end web development and related technologies, including a in
+          depth course in React JS. With more than 20 projects under my belt,
+          including websites, apps, stock trading indicators and algorithms, I
+          am eager to further establish myself in the tech industry.
           <br />
           <br />
           Creativity, problem-solving, and continuous learning have always been
           central to each of my projects and my career to date. Before
           transitioning to the programming sphere, I spent over a decade as a
           full-time musician with a sound engineering background, performing
-          everywhere from the Americas to the Middle East. The dedication I have
-          shown to my music career, as well as my additional projects in
-          videography and video editing, is something I bring to every
-          endeavour. This drive for continuous learning and a desire for
+          everywhere from the Americas to Europe and the Middle East. The
+          dedication I have shown to my music career, as well as my additional
+          projects in videography and video editing, is something I bring to
+          every endeavour. This drive for continuous learning and a desire for
           excellence in every project now defines my work ethic as a programmer.
         </p>
       </article>
